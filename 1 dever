@@ -42,6 +42,6 @@ b.2) São considerados os dados de interesse público aqueles que representam o 
 DEVER 4
 1- Java(linguagem super usada em meio corporativo), Phyton(faz tudo), C++ (faz jogos, windows..)
 a)JavaScript: console.log (Olá)
-  Python: print (´´olá mundo´´)
+  Python: print ("olá mundo")
   C++: cout << "Olá mundo!";
-b)
+b) print ("olá mundo")
