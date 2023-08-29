@@ -39,4 +39,9 @@ Webpage	HTML5
 
 b.2) São considerados os dados de interesse público aqueles que representam o interesse coletivo, por motivos de segurança ou prestação de contas à sociedade. Dados oriundos da atividade do governo ou do público. Se os dados públicos tem que ser acessíveis para todos, fica o questionamento sobre como deve ser o formato desses dados públicos. Porque o governo brasileiro disponibiliza dados públicos no modelo tributário?
 
-2- 
+DEVER 4
+1- Java(linguagem super usada em meio corporativo), Phyton(faz tudo), C++ (faz jogos, windows..)
+a)JavaScript: console.log (Olá)
+  Python: print (´´olá mundo´´)
+  C++: cout << "Olá mundo!";
+b)
