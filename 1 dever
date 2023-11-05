@@ -69,4 +69,15 @@ r6 = c != 5
 
 r7 =  c > 1 and nome == "joão"
 
+DEVER DESAFIO:
+Quando as expressões contêm operadores de mais de uma categoria, os operadores aritméticos são avaliados primeiro, os operadores de comparação são avaliados em seguida e os operadores lógicos são avaliados por último
+Qual a ordem de precedência dos operadores aritméticos?
+Precedência na matemática, da maior pra menor:
+Parênteses;
+Expoentes;
+Multiplicações e divisões; (da esquerda para a direita);
+Somas e subtrações. (da esquerda para a direita);
+
+
+
 
